@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" src="https://img.buzzfeed.com/buzzfeed-static/static/2019-05/2/13/asset/buzzfeed-prod-web-02/anigif_sub-buzz-19944-1556818526-1.gif"  />
+  <img height="350" src="https://img.buzzfeed.com/buzzfeed-static/static/2019-05/2/13/asset/buzzfeed-prod-web-02/anigif_sub-buzz-19944-1556818526-1.gif"  />
 </div>
 
 ###
