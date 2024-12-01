@@ -28,7 +28,7 @@
 
 ###
 
-<p align="center">Driven by my passion for technology and problem-solving, I am rapidly developing my skills<br>in both cybersecurity and software development. By combining knowledge and expertise in<br>these two dynamic fields, I aim to create secure and efficient software solutions. I have<br>gained hands-on experience in penetration testing and security measures, enhancing my<br>technical abilities by solving CTF platform challenges. Additionally, I am skilled in secure<br>software development and automation.<br><br>I aim to apply the knowledge I've gained to real-world projects, producing secure and<br>effective solutions. With a mindset that is open to learning and focused on problem-solving, I<br>aim to contribute to cybersecurity and develop innovative solutions in this ever-evolving<br>domain.</p>
+<p align="left">Driven by my passion for technology and problem-solving, I am rapidly developing my skills<br>in both cybersecurity and software development. By combining knowledge and expertise in<br>these two dynamic fields, I aim to create secure and efficient software solutions. I have<br>gained hands-on experience in penetration testing and security measures, enhancing my<br>technical abilities by solving CTF platform challenges. Additionally, I am skilled in secure<br>software development and automation.<br><br>I aim to apply the knowledge I've gained to real-world projects, producing secure and<br>effective solutions. With a mindset that is open to learning and focused on problem-solving, I<br>aim to contribute to cybersecurity and develop innovative solutions in this ever-evolving<br>domain.</p>
 
 ###
 
