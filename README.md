@@ -36,6 +36,7 @@
   
   <p>I am currently continuing my studies at Manisa Celal Bayar University in the Computer Programming department, and I am eager to apply the knowledge I've gained to real-world projects. With an open mind and a problem-solving focus, I aim to leverage every opportunity that technology presents for continuous growth.</p>
 </div>
+
 ###
 
 <img align="right" src="https://tryhackme-badges.s3.amazonaws.com/kenankarahan.png" alt="Kenan Karahan's Badge" />
