@@ -24,12 +24,18 @@
 
 ###
 
-<h3 align="left">/about-me</h3>
+<h3 align="left">/whoami</h3>
 
 ###
-
-<p align="left">Driven by my passion for technology and problem-solving, I am rapidly developing my skills<br>in both cybersecurity and software development. By combining knowledge and expertise in<br>these two dynamic fields, I aim to create secure and efficient software solutions. I have<br>gained hands-on experience in penetration testing and security measures, enhancing my<br>technical abilities by solving CTF platform challenges. Additionally, I am skilled in secure<br>software development and automation.<br><br>I aim to apply the knowledge I've gained to real-world projects, producing secure and<br>effective solutions. With a mindset that is open to learning and focused on problem-solving, I<br>aim to contribute to cybersecurity and develop innovative solutions in this ever-evolving<br>domain.</p>
-
+<div align="left">
+  <p>Hello, I'm Kenan Karahan. Driven by my passion for technology and problem-solving, I am on a fast-paced journey in the fields of software development and cybersecurity. Today, I combine the knowledge I've gained in both areas to create secure and efficient software solutions.</p>
+  
+  <p>As a Junior Programmer and Junior Penetration Tester, I have honed my skills by working on security-focused projects and solving challenges on CTF (Capture The Flag) platforms. These experiences have deepened my expertise in cybersecurity. I am proficient in technologies like Python, Linux, HTML, and CSS, and I have foundational knowledge in Django and SQL.</p>
+  
+  <p>In every project I work on, I prioritize both security and efficiency, aiming to create user-friendly and sustainable solutions. For me, each new project presents an opportunity not only to create better solutions but also to learn and grow. My goal is to build a strong career in both software development and cybersecurity while contributing to these dynamic fields.</p>
+  
+  <p>I am currently continuing my studies at Manisa Celal Bayar University in the Computer Programming department, and I am eager to apply the knowledge I've gained to real-world projects. With an open mind and a problem-solving focus, I aim to leverage every opportunity that technology presents for continuous growth.</p>
+</div>
 ###
 
 <img align="right" src="https://tryhackme-badges.s3.amazonaws.com/kenankarahan.png" alt="Kenan Karahan's Badge" />
