@@ -33,13 +33,13 @@
 </div>
 
 ###
-
+<h3 align="left">/ctf-write-ups</h3>
 <!-- BLOG-POST-LIST:START -->
-- [Mr Robot CTF Çözümü](https://medium.com/@kenankarahan/mr-robot-ctf-%C3%A7%C3%B6z%C3%BCm%C3%BC-33a0b5854810?source=rss-2a8b1b0a8271------2)
-- [Bounty Hacker CTF Çözümü](https://medium.com/@kenankarahan/bounty-hacker-ctf-%C3%A7%C3%B6z%C3%BCm%C3%BC-ece1a2add884?source=rss-2a8b1b0a8271------2)
-- [Pickle Rick CTF Çözümü](https://medium.com/@kenankarahan/pickle-rick-ctf-%C3%A7%C3%B6z%C3%BCm%C3%BC-71c4cb7c4a0b?source=rss-2a8b1b0a8271------2)
-- [Basic Pentesting CTF Çözümü](https://medium.com/@kenankarahan/basic-pentesting-ctf-%C3%A7%C3%B6z%C3%BCm%C3%BC-11a975850b0b?source=rss-2a8b1b0a8271------2)
-- [RootMe CTF Çözümü](https://medium.com/@kenankarahan/rootme-ctf-%C3%A7%C3%B6z%C3%BCm%C3%BC-70050a87b36b?source=rss-2a8b1b0a8271------2)
+- #[Mr Robot CTF Çözümü](https://medium.com/@kenankarahan/mr-robot-ctf-%C3%A7%C3%B6z%C3%BCm%C3%BC-33a0b5854810?source=rss-2a8b1b0a8271------2)
+- #[Bounty Hacker CTF Çözümü](https://medium.com/@kenankarahan/bounty-hacker-ctf-%C3%A7%C3%B6z%C3%BCm%C3%BC-ece1a2add884?source=rss-2a8b1b0a8271------2)
+- #[Pickle Rick CTF Çözümü](https://medium.com/@kenankarahan/pickle-rick-ctf-%C3%A7%C3%B6z%C3%BCm%C3%BC-71c4cb7c4a0b?source=rss-2a8b1b0a8271------2)
+- #[Basic Pentesting CTF Çözümü](https://medium.com/@kenankarahan/basic-pentesting-ctf-%C3%A7%C3%B6z%C3%BCm%C3%BC-11a975850b0b?source=rss-2a8b1b0a8271------2)
+- #[RootMe CTF Çözümü](https://medium.com/@kenankarahan/rootme-ctf-%C3%A7%C3%B6z%C3%BCm%C3%BC-70050a87b36b?source=rss-2a8b1b0a8271------2)
 <!-- BLOG-POST-LIST:END --
 ###
 
