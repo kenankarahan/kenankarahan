@@ -33,5 +33,5 @@
 </div>
 
 ###
-
+[![Kenan Karahan Medium](https://github-readme-medium.herokuapp.com/?username=kenankarahan)](https://medium.com/@kenankarahan)
 ###
