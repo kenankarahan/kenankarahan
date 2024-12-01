@@ -33,15 +33,8 @@
 </div>
 
 ###
-<div id="retainable-rss-embed" 
-  data-rss="https://medium.com/feed/retainable,
-  https://medium.com/feed/vue-mastery"
-  data-maxcols="3" 
-  data-layout="grid" 
-  data-poststyle="inline" 
-  data-readmore="Read the rest" 
-  data-buttonclass="btn btn-primary" 
-  data-offset="-100">
-</div>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END --
 ###
-<script src="https://www.twilik.com/assets/retainable/rss-embed/retainable-rss-embed.js"></script>
+
