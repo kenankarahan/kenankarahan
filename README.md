@@ -66,9 +66,10 @@
 - [Basic Pentesting CTF Çözümü](https://medium.com/@kenankarahan/basic-pentesting-ctf-%C3%A7%C3%B6z%C3%BCm%C3%BC-11a975850b0b?source=rss-2a8b1b0a8271------2)
 - [RootMe CTF Çözümü](https://medium.com/@kenankarahan/rootme-ctf-%C3%A7%C3%B6z%C3%BCm%C3%BC-70050a87b36b?source=rss-2a8b1b0a8271------2)
 <!-- BLOG-POST-LIST:END -->
+- ...
 <h3>Follow me from 
-  </a>
-  <a href="https://www.medium.com/@kenankarahan" target="_blank">
+  
+  <a style="letter-spacing:5px;" href="https://www.medium.com/@kenankarahan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="20" alt="medium logo"  />
   </a> for more...</h3>
 
