@@ -69,7 +69,7 @@
 <h3>Follow me from 
   </a>
   <a href="https://www.medium.com/@kenankarahan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="150" height="25" alt="medium logo"  />
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="25" alt="medium logo"  />
   </a> for more...</h3>
 
 
