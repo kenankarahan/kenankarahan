@@ -40,7 +40,7 @@
 
 ###
 
-<img align="right" src="https://tryhackme-badges.s3.amazonaws.com/kenankarahan.png" alt="Kenan Karahan's Badge" />
+<img align="right" src="[https://tryhackme-badges.s3.amazonaws.com/kenankarahan.png](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3746141)" alt="Kenan Karahan's Badge" />
 
 ###
 
