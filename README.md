@@ -65,7 +65,6 @@
 - [Pickle Rick CTF Çözümü](https://medium.com/@kenankarahan/pickle-rick-ctf-%C3%A7%C3%B6z%C3%BCm%C3%BC-71c4cb7c4a0b?source=rss-2a8b1b0a8271------2)
 - [Basic Pentesting CTF Çözümü](https://medium.com/@kenankarahan/basic-pentesting-ctf-%C3%A7%C3%B6z%C3%BCm%C3%BC-11a975850b0b?source=rss-2a8b1b0a8271------2)
 - [RootMe CTF Çözümü](https://medium.com/@kenankarahan/rootme-ctf-%C3%A7%C3%B6z%C3%BCm%C3%BC-70050a87b36b?source=rss-2a8b1b0a8271------2)
-- ...
 <!-- BLOG-POST-LIST:END -->
 <h3>Follow me from 
   
