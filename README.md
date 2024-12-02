@@ -67,11 +67,10 @@
 - [RootMe CTF Çözümü](https://medium.com/@kenankarahan/rootme-ctf-%C3%A7%C3%B6z%C3%BCm%C3%BC-70050a87b36b?source=rss-2a8b1b0a8271------2)
 <!-- BLOG-POST-LIST:END -->
 <h3>Follow me from 
+  </a>
   <a href="https://www.medium.com/@kenankarahan" target="_blank">
-      <img float="right" src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
-    </a>
-  
-  for more...</h3>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="150" height="25" alt="medium logo"  />
+  </a> for more...</h3>
 
 
 ###
