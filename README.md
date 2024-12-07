@@ -1,26 +1,8 @@
-<div align="center">
-  <img height="300" src="https://img.buzzfeed.com/buzzfeed-static/static/2019-05/2/13/asset/buzzfeed-prod-web-02/anigif_sub-buzz-19944-1556818526-1.gif"  />
+<div style="width: 100%;">
+  <a href="https://github.com/nikolalsvk/nikolalsvk/blame/main/welcome.svg">
+    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
 </div>
-
-###
-  
-  <div align="center">
-    <a href="https://www.linkedin.com/in/kenankarahan" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-    </a>
-    <a href="https://tryhackme.com/r/p/kenankarahan" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
-    </a>
-    <a href="https://www.medium.com/@kenankarahan" target="_blank">
-      <img float="right" src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
-    </a>
-  </div>
-  
-###
-
-###
-
-<h1 align="center">hey there 👋</h1>
 
 ###
 
