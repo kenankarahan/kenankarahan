@@ -27,7 +27,7 @@
 <div align="left">
   <p>Hello, I'm Kenan Karahan. Driven by my passion for technology and problem-solving, I am on a fast-paced journey in the fields of software development and cybersecurity. Today, I combine the knowledge I've gained in both areas to create secure and efficient software solutions.</p>
   
-  <p>I have honed my skills by working on security-focused projects and solving challenges on CTF (Capture The Flag) platforms. These experiences have deepened my expertise in cybersecurity. I am proficient in technologies like Python, Linux, HTML, and CSS, and I have foundational knowledge in Django, SQL and JS.</p>
+  <p>I have honed my skills by working on security-focused projects and solving challenges on CTF (Capture The Flag) platforms. These experiences have deepened my expertise in cybersecurity.</p>
   
   <p>In every project I work on, I prioritize both security and efficiency, aiming to create user-friendly and sustainable solutions. For me, each new project presents an opportunity not only to create better solutions but also to learn and grow. My goal is to build a strong career in both software development and cybersecurity while contributing to these dynamic fields.</p>
   
