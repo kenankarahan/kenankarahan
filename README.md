@@ -25,7 +25,7 @@
 
 ###
 <div align="left">
-  <p>Hello, I'm Kenan Karahan. Driven by my passion for technology and problem-solving, I am on a fast-paced journey in the fields of software development and cybersecurity. Today, I combine the knowledge I've gained in both areas to create secure and efficient software solutions.</p>
+  <p>Hello everyone, I'm Kenan Karahan. Driven by my passion for technology and problem-solving, I am on a fast-paced journey in the fields of software development and cybersecurity. Today, I combine the knowledge I've gained in both areas to create secure and efficient software solutions.</p>
   
   <p>I have honed my skills by working on security-focused projects and solving challenges on CTF (Capture The Flag) platforms. These experiences have deepened my expertise in cybersecurity.</p>
   
